@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+body {
+    height: 850px;
+    width: 1000px;
+ 
+    margin: 0 auto;
+    
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+h1, h3 {
+    font-family: "Anton";
+    color: black;
+}
+#goback {
+    color: blueviolet;
+    font-family: "Anton";
+}
